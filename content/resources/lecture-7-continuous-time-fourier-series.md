@@ -2,14 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: SupplementalResourceSection
+related_resources_text: Continuous-time Fourier Series (![This resource may not render
+  correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec07))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: Continuous-Time Fourier Series'
 uid: 2ea21f6d-70d7-42aa-008f-364de73e3a13
 video_files:
   archive_url: http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec07_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-007-signals-and-systems-spring-2011/74790f9510ba579aa10aa17db10926c4_nuzA75DpSuw.vtt
+  video_captions_file: /courses/res-6-007-signals-and-systems-spring-2011/74790f9510ba579aa10aa17db10926c4_nuzA75DpSuw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/nuzA75DpSuw/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-007-signals-and-systems-spring-2011/f0ef405432c984538e8c59c2a5a81278_nuzA75DpSuw.pdf
+  video_transcript_file: /courses/res-6-007-signals-and-systems-spring-2011/f0ef405432c984538e8c59c2a5a81278_nuzA75DpSuw.pdf
 video_metadata:
   youtube_id: nuzA75DpSuw
 ---

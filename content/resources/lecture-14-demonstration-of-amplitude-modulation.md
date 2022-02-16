@@ -2,14 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: SupplementalResourceSection
+related_resources_text: Demonstration of Amplitude Modulation (![This resource may
+  not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec14))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 14: Demonstration of Amplitude Modulation'
 uid: 15cd869f-86ff-3bf1-70bc-0eccca6d70af
 video_files:
   archive_url: http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec14_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-007-signals-and-systems-spring-2011/8e8c5641b89b55a19a591ffad7077066_KT3yNuY_FPM.vtt
+  video_captions_file: /courses/res-6-007-signals-and-systems-spring-2011/8e8c5641b89b55a19a591ffad7077066_KT3yNuY_FPM.vtt
   video_thumbnail_file: https://img.youtube.com/vi/KT3yNuY_FPM/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-007-signals-and-systems-spring-2011/68dde7192bbc7f25afb5de5d259f0781_KT3yNuY_FPM.pdf
+  video_transcript_file: /courses/res-6-007-signals-and-systems-spring-2011/68dde7192bbc7f25afb5de5d259f0781_KT3yNuY_FPM.pdf
 video_metadata:
   youtube_id: KT3yNuY_FPM
 ---

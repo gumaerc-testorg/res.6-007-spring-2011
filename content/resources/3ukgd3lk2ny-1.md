@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-007-signals-and-systems-spring-2011/e74f2e7e44afc419561c097723fe0420_3UkGd3LK2NY.pdf
+file: /media/courses/res-6-007-signals-and-systems-spring-2011/e74f2e7e44afc419561c097723fe0420_3UkGd3LK2NY.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: e74f2e7e-44af-c419-561c-097723fe0420

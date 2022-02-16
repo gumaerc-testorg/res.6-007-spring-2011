@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-007-signals-and-systems-spring-2011/fe219eb2a48204e57a9f2be863d8a921_nuzA75DpSuw.srt
+file: /media/courses/res-6-007-signals-and-systems-spring-2011/fe219eb2a48204e57a9f2be863d8a921_nuzA75DpSuw.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: fe219eb2-a482-04e5-7a9f-2be863d8a921

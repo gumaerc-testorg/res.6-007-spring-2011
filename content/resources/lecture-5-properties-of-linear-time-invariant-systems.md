@@ -2,14 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: SupplementalResourceSection
+related_resources_text: Properties of Linear, Time-Invariant Systems (![This resource
+  may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec05))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5: Properties of Linear, Time-Invariant Systems'
 uid: 1fd161b6-eed4-50e9-3269-0a3c8125369a
 video_files:
   archive_url: http://archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec05_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-007-signals-and-systems-spring-2011/0234dba516a55c30b0b477824c6eb7b1_mC3TiBJiCsY.vtt
+  video_captions_file: /courses/res-6-007-signals-and-systems-spring-2011/0234dba516a55c30b0b477824c6eb7b1_mC3TiBJiCsY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/mC3TiBJiCsY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-007-signals-and-systems-spring-2011/7cb1b42ee9eed3b7e2a45fd52a10fcab_mC3TiBJiCsY.pdf
+  video_transcript_file: /courses/res-6-007-signals-and-systems-spring-2011/7cb1b42ee9eed3b7e2a45fd52a10fcab_mC3TiBJiCsY.pdf
 video_metadata:
   youtube_id: mC3TiBJiCsY
 ---

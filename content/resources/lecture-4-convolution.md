@@ -2,14 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: SupplementalResourceSection
+related_resources_text: Convolution (![This resource may not render correctly in a
+  screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec04))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Convolution'
 uid: 433f0f56-9c6a-dfed-0f8f-c61a4e336e07
 video_files:
   archive_url: http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec04_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-007-signals-and-systems-spring-2011/da62d9b9ee5a531d81d5c6e0d8aebe68_vyke3vF4Nk.vtt
+  video_captions_file: /courses/res-6-007-signals-and-systems-spring-2011/da62d9b9ee5a531d81d5c6e0d8aebe68_vyke3vF4Nk.vtt
   video_thumbnail_file: https://img.youtube.com/vi/_vyke3vF4Nk/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-007-signals-and-systems-spring-2011/5e5e87d50ad1e1bfef082524e90ffb08_vyke3vF4Nk.pdf
+  video_transcript_file: /courses/res-6-007-signals-and-systems-spring-2011/5e5e87d50ad1e1bfef082524e90ffb08_vyke3vF4Nk.pdf
 video_metadata:
   youtube_id: _vyke3vF4Nk
 ---

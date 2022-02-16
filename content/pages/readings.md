@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: SupplementalResourceSection
 title: Readings
 uid: 62422d30-fe31-7d7f-5548-73ea79c81096
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Introduction
 uid: d32b684b-ed06-e8e6-5415-2f5dcf819873
 ---

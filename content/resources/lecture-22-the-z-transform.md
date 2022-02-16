@@ -2,14 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: SupplementalResourceSection
+related_resources_text: The z-Transform (![This resource may not render correctly
+  in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec22))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 22: The z-Transform'
 uid: d8244e7f-d6a2-650a-ec13-54627e3550a4
 video_files:
   archive_url: http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec22_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-007-signals-and-systems-spring-2011/b8b27d7b73a15bdc981567c96166ebf7_0Gat_aSzi5Y.vtt
+  video_captions_file: /courses/res-6-007-signals-and-systems-spring-2011/b8b27d7b73a15bdc981567c96166ebf7_0Gat_aSzi5Y.vtt
   video_thumbnail_file: https://img.youtube.com/vi/0Gat_aSzi5Y/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-007-signals-and-systems-spring-2011/7307dec93c706640702818b6bf84be1e_0Gat_aSzi5Y.pdf
+  video_transcript_file: /courses/res-6-007-signals-and-systems-spring-2011/7307dec93c706640702818b6bf84be1e_0Gat_aSzi5Y.pdf
 video_metadata:
   youtube_id: 0Gat_aSzi5Y
 ---
