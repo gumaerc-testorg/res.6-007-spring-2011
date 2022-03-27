@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Filtering (![This resource may not render correctly in a
   reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec12))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Filtering'
 uid: ca8df82f-f8cd-cc58-4aa8-0af112b53b96
 video_files:

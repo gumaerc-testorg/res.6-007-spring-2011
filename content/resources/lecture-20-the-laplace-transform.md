@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: The Laplace Transform (![This resource may not render co
   in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec20))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: The Laplace Transform'
 uid: 9938c30f-4c2e-4047-3934-9b6a43f300c8
 video_files:

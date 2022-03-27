@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: SupplementalResourceSection
+parent_uid: 2e9a8aff-96f8-e559-11ed-fb8887012a8e
 resourcetype: Document
 title: MITRES_6_007S11_hw06_sol.pdf
 uid: 9a3b227f-76df-51d9-79c2-a45dcb5cc013

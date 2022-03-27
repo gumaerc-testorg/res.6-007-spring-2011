@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Interpolation (![This resource may not render correctly 
   a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec17))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: Interpolation'
 uid: c9f13c49-80ae-5de5-5ae5-b25440bc9177
 video_files:

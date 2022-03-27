@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Feedback (![This resource may not render correctly in a 
   reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec25))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 25: Feedback'
 uid: 7cbb87f6-fdb7-be92-781c-98a8b39b6ad3
 video_files:

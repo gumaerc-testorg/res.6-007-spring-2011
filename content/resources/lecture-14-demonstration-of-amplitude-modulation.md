@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Demonstration of Amplitude Modulation (![This resource m
   not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec14))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 14: Demonstration of Amplitude Modulation'
 uid: 15cd869f-86ff-3bf1-70bc-0eccca6d70af
 video_files:

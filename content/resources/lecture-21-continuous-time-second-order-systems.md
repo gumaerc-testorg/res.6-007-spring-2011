@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Continuous-time Second-order Systems (![This resource ma
   not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec21))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 21: Continuous-Time Second-Order Systems'
 uid: c025692c-8d4d-2559-e44a-42e5a1739de1
 video_files:

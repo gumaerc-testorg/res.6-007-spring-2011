@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Continuous-time Modulation (![This resource may not rend
   correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec13))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Continuous-Time Modulation'
 uid: 68d1c3ad-36c4-916e-8026-7453f355502a
 video_files:

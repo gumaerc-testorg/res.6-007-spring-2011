@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Fourier Transform Properties (![This resource may not re
   correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec09))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: Fourier Transform Properties'
 uid: 80318965-07f6-c8fd-621b-c7b32af1a112
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Discrete-time Sampling (![This resource may not render c
   in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec19))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: Discrete-Time Sampling'
 uid: adf967fd-2c65-66ca-4a4c-ce4259f20a5d
 video_files:

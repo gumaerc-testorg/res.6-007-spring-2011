@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Continuous-time Fourier Transform (![This resource may n
   render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec08))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Continuous-Time Fourier Transform'
 uid: 5bb5d813-85ea-defa-c0fc-79ff7dd59868
 video_files:

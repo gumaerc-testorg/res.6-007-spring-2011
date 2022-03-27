@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Discrete-time Fourier Transform (![This resource may not
   correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec11))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Discrete-Time Fourier Transform'
 uid: 4b47049e-0217-8b6b-a7b2-5ef342617c27
 video_files:

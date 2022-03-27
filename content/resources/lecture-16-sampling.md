@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Sampling (![This resource may not render correctly in a 
   reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec16))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Sampling'
 uid: ac19875b-a346-9196-5f9d-6dec46ae8023
 video_files:

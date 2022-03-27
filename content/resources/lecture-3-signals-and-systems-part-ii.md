@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: 'Signals and Systems: Part II (![This resource may not r
   correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec03))'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Signals and Systems: Part II'
 uid: d8ca64e8-65f8-e8db-69d5-1e529b82078a
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Systems Represented by Differential and Difference Equat
   (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec06))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Systems Represented by Differential Equations'
 uid: 728888a2-fea7-6b76-3ad6-d3e4b305cb7c
 video_files:

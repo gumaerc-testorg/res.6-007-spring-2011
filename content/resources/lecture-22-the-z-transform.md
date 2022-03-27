@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: The z-Transform (![This resource may not render correctl
   in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec22))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: The z-Transform'
 uid: d8244e7f-d6a2-650a-ec13-54627e3550a4
 video_files:

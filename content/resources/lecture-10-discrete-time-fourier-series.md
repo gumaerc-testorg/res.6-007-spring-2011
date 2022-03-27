@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Discrete-time Fourier Series (![This resource may not re
   correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec10))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Discrete-Time Fourier Series'
 uid: 9c0b96d0-090f-8e36-6a73-a844dd649a08
 video_files:

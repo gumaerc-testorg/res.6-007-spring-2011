@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Discrete-time Modulation (![This resource may not render
   in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec15))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Discrete-Time Modulation'
 uid: c66f81c9-97f6-0266-bdff-7ac137c5b33b
 video_files:

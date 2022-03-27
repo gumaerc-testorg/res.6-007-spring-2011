@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: Introduction ([PDF](resources/mitres_6_007s11_lec01))
 resource_index_text: <p><b><br /></b></p>
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Introduction'
 uid: 819103d0-94fb-68f4-f250-f1d52221b803
 video_files:

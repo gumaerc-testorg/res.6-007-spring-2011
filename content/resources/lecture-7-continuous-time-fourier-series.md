@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Continuous-time Fourier Series (![This resource may not 
   correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec07))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Continuous-Time Fourier Series'
 uid: 2ea21f6d-70d7-42aa-008f-364de73e3a13
 video_files:

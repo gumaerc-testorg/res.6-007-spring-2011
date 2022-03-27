@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Properties of Linear, Time-Invariant Systems (![This res
   may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec05))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Properties of Linear, Time-Invariant Systems'
 uid: 1fd161b6-eed4-50e9-3269-0a3c8125369a
 video_files:
