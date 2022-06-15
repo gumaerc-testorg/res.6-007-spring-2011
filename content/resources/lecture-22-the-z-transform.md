@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: The z-Transform (![This resource may not render correctly
-  in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec22))
+related_resources_text: The z-Transform ([PDF](/courses/res-6-007-signals-and-systems-spring-2011/resources/mitres_6_007s11_lec22))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Relationship to the discrete-time Fourier transform; Region of convergence (ROC); The inverse z-transform; Geometric evaluation of the Fourier transform from the pole-zero plot, first-order and second-order systems; Analysis and characterization of LTI systems using z-transforms.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: Convolution (![This resource may not render correctly in a
-  screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec04))
+related_resources_text: Convolution ([PDF](/courses/res-6-007-signals-and-systems-spring-2011/resources/mitres_6_007s11_lec04))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Representation of signals in terms of impulses; Convolution sum representation for discrete-time linear, time-invariant (LTI) systems: convolution integral representation for continuous-time LTI systems; Properties: commutative, associative, and distributive.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

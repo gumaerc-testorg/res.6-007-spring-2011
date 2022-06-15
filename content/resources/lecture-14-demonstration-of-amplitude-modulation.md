@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: Demonstration of Amplitude Modulation (![This resource may
-  not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec14))
+related_resources_text: Demonstration of Amplitude Modulation ([PDF](/courses/res-6-007-signals-and-systems-spring-2011/resources/mitres_6_007s11_lec14))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Demonstration: time-domain and frequency-domain signals with signal generator, oscilloscope, and spectrum analyzer; Demonstration: time and frequency scaling with musical tones; Demonstration: amplitude modulation with sinusoidal, triangular, and square-wave carrier signals; Demonstration: effect of changing the percent of modulation in both time and frequency domains; Demonstration: amplitude modulation signals in an AM radio receiver.
 
 **Instructors:** Prof. Alan V. Oppenheim; Prof. Sandy Hill
+
+
+

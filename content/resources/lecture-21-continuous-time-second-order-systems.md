@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: Continuous-time Second-order Systems (![This resource may
-  not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec21))
+related_resources_text: Continuous-time Second-order Systems ([PDF](/courses/res-6-007-signals-and-systems-spring-2011/resources/mitres_6_007s11_lec21))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Geometric evaluation of frequency responses from pole-zero plots; Difference equation and system function for first-order and second-order systems; Effect of properties; Overdamped and underdamped systems; Analysis and characteristics of second-order systems; Demonstration of use in speech synthesis.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: Continuous-time Fourier Transform (![This resource may not
-  render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec08))
+related_resources_text: Continuous-time Fourier Transform ([PDF](/courses/res-6-007-signals-and-systems-spring-2011/resources/mitres_6_007s11_lec08))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Derivation of the Fourier transform representation of aperiodic signals; Synthesis equation (inverse Fourier transform) and analysis equation (Fourier transform); Periodic signals: coefficients as samples of the transform of one period; Relationships between Fourier series and Fourier transforms; Fourier transform representation of periodic signals; Examples.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

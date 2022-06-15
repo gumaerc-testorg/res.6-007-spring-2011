@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section lists assigned readings by session.
 learning_resource_types:
 - Readings
 ocw_type: SupplementalResourceSection

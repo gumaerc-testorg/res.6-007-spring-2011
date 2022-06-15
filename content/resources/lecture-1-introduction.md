@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: Introduction ([PDF](resources/mitres_6_007s11_lec01))
+related_resources_text: Introduction ([PDF](/courses/res-6-007-signals-and-systems-spring-2011/resources/mitres_6_007s11_lec01))
 resource_index_text: <p><b><br /></b></p>
 resourcetype: Video
 start_time: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Topics covered:** Course format and overview; Demonstration of a feedback system used to stabilize an inverted pendulum; Demonstration of digital signal processing used to remove distortions and background noise from a musical recording. Mathematical representation of signals and systems.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

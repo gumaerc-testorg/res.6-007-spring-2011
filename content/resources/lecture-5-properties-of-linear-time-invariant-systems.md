@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: Properties of Linear, Time-Invariant Systems (![This resource
-  may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec05))
+related_resources_text: Properties of Linear, Time-Invariant Systems ([PDF](/courses/res-6-007-signals-and-systems-spring-2011/resources/mitres_6_007s11_lec05))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Properties of linear, time-invariant systems, including the commutative, associative, and distributive properties. Also covers operational definition of impulses; cascade systems; parallel combinations; properties of convolution; discrete-time accumulator; first-order continuous-time system.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

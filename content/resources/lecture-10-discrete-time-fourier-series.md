@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: Discrete-time Fourier Series (![This resource may not render
-  correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec10))
+related_resources_text: Discrete-time Fourier Series ([PDF](/courses/res-6-007-signals-and-systems-spring-2011/resources/mitres_6_007s11_lec10))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Response of discrete-time LTI systems to complex exponentials; Representation of periodic signals: linear combinations of harmonically related complex exponentials; Similarities and differences with continuous time; Analysis and synthesis equations; Approximation of periodic signals and convergence; Discrete-time Fourier representation of aperiodic signals: the discrete-time Fourier transform; Fourier transform representation of periodic signals.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

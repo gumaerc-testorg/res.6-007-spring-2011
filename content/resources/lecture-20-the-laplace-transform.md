@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: The Laplace Transform (![This resource may not render correctly
-  in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec20))
+related_resources_text: The Laplace Transform ([PDF](/courses/res-6-007-signals-and-systems-spring-2011/resources/mitres_6_007s11_lec20))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Relationship to the Fourier transform; Class of rational transforms and the concept of poles and zeroes; Region of convergence (ROC); Inverse transforms using partial fraction expansion.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

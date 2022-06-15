@@ -5,12 +5,13 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
 related_resources_text: Systems Represented by Differential and Difference Equations
-  (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec06))
+  ([PDF](/courses/res-6-007-signals-and-systems-spring-2011/resources/mitres_6_007s11_lec06))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +29,6 @@ video_metadata:
 **Topics covered:** First-order differential and difference equations; Solution as a sum of particular and homogeneous terms; Auxiliary conditions and relation to system linearity, causality, and time-invariance; Block-diagram representations of LTI systems described by difference equations and differential equations using adders, coefficient multipliers, and delay elements (discrete-time) or integrators (continuous-time).
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

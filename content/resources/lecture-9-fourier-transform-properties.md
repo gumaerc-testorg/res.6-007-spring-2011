@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: Fourier Transform Properties (![This resource may not render
-  correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec09))
+related_resources_text: Fourier Transform Properties ([PDF](/courses/res-6-007-signals-and-systems-spring-2011/resources/mitres_6_007s11_lec09))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Linearity, symmetry, time shifting, differentiation and integration, time and frequency scaling, duality, Parseval's relation; Convolution and modulation properties and the basis they provide for filtering, modulation, and sampling; Polar representation, magnitude and phase, Bode plots; Use of transform methods to analyze LTI systems characterized by differential and difference equations; Cascade and parallel form realization: first- and second-order systems.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

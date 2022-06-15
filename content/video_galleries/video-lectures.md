@@ -1,5 +1,9 @@
 ---
 content_type: video_gallery
+description: Signals and Systems was developed in 1987 as a distance-education course
+  for engineers. An introduction to analog and digital signal processing, including
+  discrete- and continuous-time signals, linear time-invariant systems, feedback,
+  and data processing.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos

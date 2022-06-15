@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: Interpolation (![This resource may not render correctly in
-  a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec17))
+related_resources_text: Interpolation ([PDF](/courses/res-6-007-signals-and-systems-spring-2011/resources/mitres_6_007s11_lec17))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Reconstruction of a signal from its samples as a process of interpolation; Band limited interpolation; Approximate interpolation: zero-order hold, first-order hold (linear interpolation); Illustration of sampling and interpolation for pictures; The use of sampling in computer processing of signals.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

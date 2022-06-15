@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: Discrete-time Sampling (![This resource may not render correctly
-  in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec19))
+related_resources_text: Discrete-time Sampling ([PDF](/courses/res-6-007-signals-and-systems-spring-2011/resources/mitres_6_007s11_lec19))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Comparison of discrete-time and continuous-time sampling; Down-sampling (decimation) and up-sampling (reconstruction of original sequence); Use of decimation/interpolation for sampling rate conversion; Sampling in the frequency domain.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

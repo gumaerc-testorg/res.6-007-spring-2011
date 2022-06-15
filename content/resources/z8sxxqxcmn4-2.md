@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-6-007-signals-and-systems-spring-2011/07e24e10b49c57919967f5de7ebe714b_z8sXXQxcmN4.vtt
+file: /courses/res-6-007-signals-and-systems-spring-2011/07e24e10b49c57919967f5de7ebe714b_z8sXXQxcmN4.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

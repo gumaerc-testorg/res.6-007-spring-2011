@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: 'Signals and Systems: Part II (![This resource may not render
-  correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec03))'
+related_resources_text: 'Signals and Systems: Part II ([PDF](/courses/res-6-007-signals-and-systems-spring-2011/resources/mitres_6_007s11_lec03))'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Unit step and unit impulse signals; Block-diagram representations and interconnections of systems; System properties: memory, invertibility and inverse systems, causality, stability, time invariance, linearity.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

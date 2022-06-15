@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: Continuous-time Fourier Series (![This resource may not render
-  correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec07))
+related_resources_text: Continuous-time Fourier Series ([PDF](/courses/res-6-007-signals-and-systems-spring-2011/resources/mitres_6_007s11_lec07))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Response of continuous-time LTI systems to complex exponentials: the eigenfunction property; Representation of periodic signals as linear combinations of harmonically related complex exponentials; Fourier series for continuous time: the analysis and synthesis equations; Example: symmetric and anti-symmetric periodic square wave; Approximation of periodic signals; Fourier series convergence.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

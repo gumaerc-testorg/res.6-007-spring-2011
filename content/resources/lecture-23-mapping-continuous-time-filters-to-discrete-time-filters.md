@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: Mapping Continuous-time Filters to Discrete-time Filters (![This
-  resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec23))
+related_resources_text: Mapping Continuous-time Filters to Discrete-time Filters ([PDF](/courses/res-6-007-signals-and-systems-spring-2011/resources/mitres_6_007s11_lec23))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Properties of the z-transform; Analyzing systems characterized by linear constant-coefficient difference equations; Transformations between continuous-time and discrete-time systems, impulse invariance, backward difference approximation to differential equations.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-related_resources_text: Feedback (![This resource may not render correctly in a screen
-  reader.](/images/inacessible.gif)[PDF](resources/mitres_6_007s11_lec25))
+related_resources_text: Feedback ([PDF](/courses/res-6-007-signals-and-systems-spring-2011/resources/mitres_6_007s11_lec25))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Applications and consequences: inverse system design, compensation for non ideal elements, stabilization of unstable systems, tracking, destabilization caused by feedback; Basic feedback equation for continuous-time and discrete-time systems; Root-locus analysis (equation for closed-loop poles, end points, angle criterion, properties); Gain and phase margins.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+
