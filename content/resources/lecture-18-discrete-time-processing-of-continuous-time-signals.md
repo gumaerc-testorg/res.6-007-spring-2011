@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Conversion of continuous-time to discrete-time signals through sampling; Digital differentiaion, half-sample delay; Demonstration: sampling a continuous-time signal, filtering sequences with a low-pass filter, reconstructing a continuous-time signal using bandlimited interpolation.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

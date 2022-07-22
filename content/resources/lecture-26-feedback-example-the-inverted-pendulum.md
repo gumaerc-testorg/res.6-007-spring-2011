@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Analysis of the open loop system and exploration of choices for the feedback dynamics; Behavior description through a second-order linear constant-coefficient differential equation; Root-locus analysis; Combination of proportional and derivative feedback to achieve pendulum stability; Demonstration: inverted pendulum on a track, effect of modifying dynamics, effect of modifying damaging characteristics.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

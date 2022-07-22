@@ -5,6 +5,7 @@ file: /courses/res-6-007-signals-and-systems-spring-2011/f388ad1002e44fdcf2f552b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: MITRES_6_007S11_hw19.pdf
 uid: f388ad10-02e4-4fdc-f2f5-52b11bb1194b
 ---
 This resource contains problem set related to discrete-time sampling.
-

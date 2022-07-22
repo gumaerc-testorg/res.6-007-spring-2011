@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Parameters, cutoff frequency and filter order; Distribution of poles of continuous-time Butterworth filters; Design of a discrete-time Butterwoth filter using impulse invariance; The bilinear transformation; Design of a discrete-time Butterworth filter using the bilinear transformation.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Sinusoidal amplitude modulation; Synchronous and asynchronous demodulation; Implementation of frequency-selective filters with variable-center frequencies; Communication applications (frequency-division multiplexing and single-side band modulation).
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

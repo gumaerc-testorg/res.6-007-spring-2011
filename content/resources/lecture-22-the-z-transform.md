@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Relationship to the discrete-time Fourier transform; Region of convergence (ROC); The inverse z-transform; Geometric evaluation of the Fourier transform from the pole-zero plot, first-order and second-order systems; Analysis and characterization of LTI systems using z-transforms.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

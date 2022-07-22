@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Comparison of discrete-time and continuous-time sampling; Down-sampling (decimation) and up-sampling (reconstruction of original sequence); Use of decimation/interpolation for sampling rate conversion; Sampling in the frequency domain.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

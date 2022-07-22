@@ -5,6 +5,7 @@ file: /courses/res-6-007-signals-and-systems-spring-2011/1c16f0f87514ec62b768b07
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: MITRES_6_007S11_hw25.pdf
 uid: 1c16f0f8-7514-ec62-b768-b07c69411228
 ---
 This resource contains problem set related to feedback.
-

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Derivation of the Fourier transform representation of aperiodic signals; Synthesis equation (inverse Fourier transform) and analysis equation (Fourier transform); Periodic signals: coefficients as samples of the transform of one period; Relationships between Fourier series and Fourier transforms; Fourier transform representation of periodic signals; Examples.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

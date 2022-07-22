@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-6-007-signals-and-systems-spring-2011/cf4e77b92cc2e5c6c69134b510fb53a0_GrnYlDAsmuA.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

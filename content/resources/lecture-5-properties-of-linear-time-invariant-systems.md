@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Properties of linear, time-invariant systems, including the commutative, associative, and distributive properties. Also covers operational definition of impulses; cascade systems; parallel combinations; properties of convolution; discrete-time accumulator; first-order continuous-time system.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

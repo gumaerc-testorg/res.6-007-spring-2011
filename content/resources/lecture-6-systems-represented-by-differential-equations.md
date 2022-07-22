@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 **Topics covered:** First-order differential and difference equations; Solution as a sum of particular and homogeneous terms; Auxiliary conditions and relation to system linearity, causality, and time-invariance; Block-diagram representations of LTI systems described by difference equations and differential equations using adders, coefficient multipliers, and delay elements (discrete-time) or integrators (continuous-time).
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

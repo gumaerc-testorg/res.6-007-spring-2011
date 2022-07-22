@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Amplitude modulation with complex exponential and sinusoidal carriers; Use of amplitude modulation to convert a fixed filter to a variable filter; Pulse amplitude modulation for continuous-time signals; Preview of sampling.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

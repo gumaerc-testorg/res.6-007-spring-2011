@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Properties of the z-transform; Analyzing systems characterized by linear constant-coefficient difference equations; Transformations between continuous-time and discrete-time systems, impulse invariance, backward difference approximation to differential equations.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

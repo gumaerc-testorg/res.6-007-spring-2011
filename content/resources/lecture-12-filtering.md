@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Relation to the convolution property of Fourier transform; Ideal and non ideal frequency-selective filters: frequency-domain and time-domain characteristics; Continuous-time frequency-selective filters described by differential equations; RC low-pass and high-pass filters; Discrete-time frequency-selective filters described by difference equations; Moving average filters; Recursive discrete-time filters; Demonstration: a look at filtering in a commercial audio control room.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

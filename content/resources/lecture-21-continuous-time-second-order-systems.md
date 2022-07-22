@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Geometric evaluation of frequency responses from pole-zero plots; Difference equation and system function for first-order and second-order systems; Effect of properties; Overdamped and underdamped systems; Analysis and characteristics of second-order systems; Demonstration of use in speech synthesis.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

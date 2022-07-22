@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** The sampling theorem: representation of a continuous-time signal by its samples; Aliasing: the effect of undersampling; Demonstration: sampling and reconstruction of the output of a sinusoidal oscillator; Demonstration: some practical uses of aliasing—a visit with Dr. Harold Edgerton at the MIT Strobe Laboratory.
 
 **Instructors:** Prof. Alan V. Oppenheim; Dr. Harold Edgerton
-
-
 

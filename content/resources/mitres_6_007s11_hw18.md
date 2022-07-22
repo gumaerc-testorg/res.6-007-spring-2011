@@ -6,6 +6,7 @@ file: /courses/res-6-007-signals-and-systems-spring-2011/0c50a4a9c84824045750885
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ title: MITRES_6_007S11_hw18.pdf
 uid: 0c50a4a9-c848-2404-5750-8853e740a8d1
 ---
 This resource contains problem set related to discrete-time processing of continuous-time signals.
-

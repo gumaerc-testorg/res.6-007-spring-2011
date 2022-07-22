@@ -6,6 +6,7 @@ file: /courses/res-6-007-signals-and-systems-spring-2011/f6a14de1d6c3b5579ddc821
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ title: MITRES_6_007S11_hw08.pdf
 uid: f6a14de1-d6c3-b557-9ddc-8216a9f59449
 ---
 This resource contains problem set related to continuous-time fourier transform.
-

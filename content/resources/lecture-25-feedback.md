@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Applications and consequences: inverse system design, compensation for non ideal elements, stabilization of unstable systems, tracking, destabilization caused by feedback; Basic feedback equation for continuous-time and discrete-time systems; Root-locus analysis (equation for closed-loop poles, end points, angle criterion, properties); Gain and phase margins.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

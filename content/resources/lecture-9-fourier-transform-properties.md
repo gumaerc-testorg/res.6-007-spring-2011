@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Linearity, symmetry, time shifting, differentiation and integration, time and frequency scaling, duality, Parseval's relation; Convolution and modulation properties and the basis they provide for filtering, modulation, and sampling; Polar representation, magnitude and phase, Bode plots; Use of transform methods to analyze LTI systems characterized by differential and difference equations; Cascade and parallel form realization: first- and second-order systems.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Reconstruction of a signal from its samples as a process of interpolation; Band limited interpolation; Approximate interpolation: zero-order hold, first-order hold (linear interpolation); Illustration of sampling and interpolation for pictures; The use of sampling in computer processing of signals.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

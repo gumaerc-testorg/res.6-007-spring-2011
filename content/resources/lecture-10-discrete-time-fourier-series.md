@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Response of discrete-time LTI systems to complex exponentials; Representation of periodic signals: linear combinations of harmonically related complex exponentials; Similarities and differences with continuous time; Analysis and synthesis equations; Approximation of periodic signals and convergence; Discrete-time Fourier representation of aperiodic signals: the discrete-time Fourier transform; Fourier transform representation of periodic signals.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

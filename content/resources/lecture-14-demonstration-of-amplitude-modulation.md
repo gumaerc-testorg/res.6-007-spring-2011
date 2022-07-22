@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Demonstration: time-domain and frequency-domain signals with signal generator, oscilloscope, and spectrum analyzer; Demonstration: time and frequency scaling with musical tones; Demonstration: amplitude modulation with sinusoidal, triangular, and square-wave carrier signals; Demonstration: effect of changing the percent of modulation in both time and frequency domains; Demonstration: amplitude modulation signals in an AM radio receiver.
 
 **Instructors:** Prof. Alan V. Oppenheim; Prof. Sandy Hill
-
-
 

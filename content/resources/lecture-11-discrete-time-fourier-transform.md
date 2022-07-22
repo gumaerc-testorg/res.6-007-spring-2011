@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Representation of aperiodic signals; Discrete-time Fourier transform properties: periodicity, linearity, symmetry, time shifting and frequency shifting, differencing and summation, time and frequency scaling, differentiation in frequency, Parseval's relation; Convolution and modulation, duality, polar representation; Calculation of frequency and impulse responses; Summary of relationships between continuous-time and discrete-time Fourier series and Fourier transforms.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 
