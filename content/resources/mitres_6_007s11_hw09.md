@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problem set related to fourier transform properties.
 file: /courses/res-6-007-signals-and-systems-spring-2011/3eda274513d541c44c8f8e1820810bc7_MITRES_6_007S11_hw09.pdf
+file_size: 222534
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to discrete-time fourier transform.
 file: /courses/res-6-007-signals-and-systems-spring-2011/171a9e4a2c0b4465f3934065f335e85c_MITRES_6_007S11_lec11.pdf
+file_size: 516587
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

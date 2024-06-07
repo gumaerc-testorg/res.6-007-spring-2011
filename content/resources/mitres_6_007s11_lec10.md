@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to discrete-time fourier series.
 file: /courses/res-6-007-signals-and-systems-spring-2011/ff04f7bc9f38163c22cd56c80fc914f5_MITRES_6_007S11_lec10.pdf
+file_size: 536133
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

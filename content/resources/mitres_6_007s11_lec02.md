@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information related to signals and systems: part
   I.'
 file: /courses/res-6-007-signals-and-systems-spring-2011/defeabeacb2b0ffecfbda27d7cc0b1dd_MITRES_6_007S11_lec02.pdf
+file_size: 373182
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

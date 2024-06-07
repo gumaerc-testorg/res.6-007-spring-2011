@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to mapping continuous-time
   filters to discrete-time filters.
 file: /courses/res-6-007-signals-and-systems-spring-2011/6b7a629ebe6c8ee01fc3376b95de4d1d_MITRES_6_007S11_lec23.pdf
+file_size: 512050
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

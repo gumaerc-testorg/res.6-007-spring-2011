@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to the z-transform.
 file: /courses/res-6-007-signals-and-systems-spring-2011/b3b5ec728db307c90d13c1eb330434a0_MITRES_6_007S11_lec22.pdf
+file_size: 496975
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to systems represented by
   differential and difference equations.
 file: /courses/res-6-007-signals-and-systems-spring-2011/c7ac1086bd3994495536c05eb68d9afb_MITRES_6_007S11_lec06.pdf
+file_size: 511654
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

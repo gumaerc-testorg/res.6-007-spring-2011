@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '80052062'
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
