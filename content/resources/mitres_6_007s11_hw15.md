@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problem set related to discrete-time modulation.
 file: /courses/res-6-007-signals-and-systems-spring-2011/8cd26351096b96a37b5d0cb77e57ed01_MITRES_6_007S11_hw15.pdf
+file_size: 244872
 file_type: application/pdf
 learning_resource_types:
 - Assignments

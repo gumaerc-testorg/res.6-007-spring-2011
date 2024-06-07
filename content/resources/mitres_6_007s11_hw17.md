@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problem set related to interpolation.
 file: /courses/res-6-007-signals-and-systems-spring-2011/bf03eadf8df817e605ac66ddb879abc8_MITRES_6_007S11_hw17.pdf
+file_size: 267187
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains problem set related to feedback example: the
   inverted pendulum.'
 file: /courses/res-6-007-signals-and-systems-spring-2011/43a4eca68360580b2e4d82c0139b95b3_MITRES_6_007S11_hw26.pdf
+file_size: 440366
 file_type: application/pdf
 learning_resource_types:
 - Assignments
