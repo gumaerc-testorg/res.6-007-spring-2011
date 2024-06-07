@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to fourier transform properties.
 file: /courses/res-6-007-signals-and-systems-spring-2011/403577752d3007ed4ea30e8c61cf90d7_MITRES_6_007S11_lec09.pdf
+file_size: 606517
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

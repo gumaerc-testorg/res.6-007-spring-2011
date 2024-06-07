@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to sampling.
 file: /courses/res-6-007-signals-and-systems-spring-2011/bee6d28bf21c34b6d2329dc62321cbf9_MITRES_6_007S11_lec16.pdf
+file_size: 635596
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to interpolation.
 file: /courses/res-6-007-signals-and-systems-spring-2011/8d5b8d4542cb5981605e26501d260517_MITRES_6_007S11_lec17.pdf
+file_size: 961255
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

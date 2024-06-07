@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to convolution.
 file: /courses/res-6-007-signals-and-systems-spring-2011/27da9a018e92fc06d2cf1fbce5cd3e71_MITRES_6_007S11_lec04.pdf
+file_size: 358266
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
