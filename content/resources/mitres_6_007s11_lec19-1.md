@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to discrete-time sampling.
-file: /courses/res-6-007-signals-and-systems-spring-2011/8c33a4bc0939fa291cf78a6ca55b1e7a_MITRES_6_007S11_lec19.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/8c33a4bc0939fa291cf78a6ca55b1e7a_MITRES_6_007S11_lec19.pdf
 file_size: 591026
 file_type: application/pdf
 learning_resource_types:

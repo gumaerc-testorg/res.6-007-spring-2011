@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to feedback.
-file: /courses/res-6-007-signals-and-systems-spring-2011/82de27f7726dfe97743f781d2db2faa9_MITRES_6_007S11_lec25.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/82de27f7726dfe97743f781d2db2faa9_MITRES_6_007S11_lec25.pdf
 file_size: 389692
 file_type: application/pdf
 learning_resource_types:

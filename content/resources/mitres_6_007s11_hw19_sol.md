@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solution to the problem set related to discrete-time
   sampling.
-file: /courses/res-6-007-signals-and-systems-spring-2011/f9ac05e1fcfce06109f8156bf6fc40df_MITRES_6_007S11_hw19_sol.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/f9ac05e1fcfce06109f8156bf6fc40df_MITRES_6_007S11_hw19_sol.pdf
 file_size: 347186
 file_type: application/pdf
 learning_resource_types:
