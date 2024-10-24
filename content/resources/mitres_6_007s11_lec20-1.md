@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to the laplace transform.
-file: /courses/res-6-007-signals-and-systems-spring-2011/d9f4523002b8447ba73531bcc456cd69_MITRES_6_007S11_lec20.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/d9f4523002b8447ba73531bcc456cd69_MITRES_6_007S11_lec20.pdf
 file_size: 398294
 file_type: application/pdf
 learning_resource_types:

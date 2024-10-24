@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to continuous-time modulation.
-file: /courses/res-6-007-signals-and-systems-spring-2011/cd6452890f55ab39b9e04d811626edbb_MITRES_6_007S11_lec13.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/cd6452890f55ab39b9e04d811626edbb_MITRES_6_007S11_lec13.pdf
 file_size: 433111
 file_type: application/pdf
 learning_resource_types: []

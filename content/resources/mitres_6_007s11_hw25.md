@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem set related to feedback.
-file: /courses/res-6-007-signals-and-systems-spring-2011/1c16f0f87514ec62b768b07c69411228_MITRES_6_007S11_hw25.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/1c16f0f87514ec62b768b07c69411228_MITRES_6_007S11_hw25.pdf
 file_size: 247800
 file_type: application/pdf
 learning_resource_types:

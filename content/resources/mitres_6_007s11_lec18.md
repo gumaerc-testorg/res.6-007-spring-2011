@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to discrete-time processing
   of continuous-time signals.
-file: /courses/res-6-007-signals-and-systems-spring-2011/9d7dd2f5a1a5281cbc6767e3e6188d8d_MITRES_6_007S11_lec18.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/9d7dd2f5a1a5281cbc6767e3e6188d8d_MITRES_6_007S11_lec18.pdf
 file_size: 392680
 file_type: application/pdf
 learning_resource_types:
