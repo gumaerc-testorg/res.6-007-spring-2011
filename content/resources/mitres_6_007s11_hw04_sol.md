@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solution to the problem set related to convolution.
-file: /courses/res-6-007-signals-and-systems-spring-2011/0a374ee9df1ba2a9cd985807c735afa6_MITRES_6_007S11_hw04_sol.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/0a374ee9df1ba2a9cd985807c735afa6_MITRES_6_007S11_hw04_sol.pdf
 file_size: 436989
 file_type: application/pdf
 learning_resource_types:
