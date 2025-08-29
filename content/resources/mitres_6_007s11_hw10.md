@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem set related to discrete-time fourier series.
 draft: false
-file: /courses/res-6-007-signals-and-systems-spring-2011/d3e4ed69c3cbba40a820e233c1b165c9_MITRES_6_007S11_hw10.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/d3e4ed69c3cbba40a820e233c1b165c9_MITRES_6_007S11_hw10.pdf
 file_size: 247559
 file_type: application/pdf
 image_metadata:

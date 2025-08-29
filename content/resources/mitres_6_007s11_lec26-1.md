@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to feedback example: the
   inverted pendulum.'
 draft: false
-file: /courses/res-6-007-signals-and-systems-spring-2011/6dce2ba279cba5cf55050f343f6b718c_MITRES_6_007S11_lec26.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/6dce2ba279cba5cf55050f343f6b718c_MITRES_6_007S11_lec26.pdf
 file_size: 513368
 file_type: application/pdf
 image_metadata:

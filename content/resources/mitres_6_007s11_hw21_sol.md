@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solution to the problem set related to continuous-time
   second-order systems.
 draft: false
-file: /courses/res-6-007-signals-and-systems-spring-2011/3391a1b65c9a0174abc1c6f282aaa802_MITRES_6_007S11_hw21_sol.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/3391a1b65c9a0174abc1c6f282aaa802_MITRES_6_007S11_hw21_sol.pdf
 file_size: 514210
 file_type: application/pdf
 image_metadata:
