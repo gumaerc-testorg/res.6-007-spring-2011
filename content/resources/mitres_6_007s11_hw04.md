@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem set related to convolution.
 draft: false
-file: /courses/res-6-007-signals-and-systems-spring-2011/cab2602ff858c51113591d17321a80fc_MITRES_6_007S11_hw04.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/cab2602ff858c51113591d17321a80fc_MITRES_6_007S11_hw04.pdf
 file_size: 389770
 file_type: application/pdf
 image_metadata:

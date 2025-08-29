@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem set related to continuous-time fourier
   series.
 draft: false
-file: /courses/res-6-007-signals-and-systems-spring-2011/bab467e6b94d56a6db87db20008f79e3_MITRES_6_007S11_hw07.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/bab467e6b94d56a6db87db20008f79e3_MITRES_6_007S11_hw07.pdf
 file_size: 300880
 file_type: application/pdf
 image_metadata:

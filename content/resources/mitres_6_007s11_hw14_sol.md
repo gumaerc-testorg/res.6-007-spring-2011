@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solution to the problem set related to demonstration
   of amplitude modulation.
 draft: false
-file: /courses/res-6-007-signals-and-systems-spring-2011/b7a84672b3010c8396913e13982ab642_MITRES_6_007S11_hw14_sol.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/b7a84672b3010c8396913e13982ab642_MITRES_6_007S11_hw14_sol.pdf
 file_size: 223919
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains solution to the problem set related to signals
   and systems: part I.'
 draft: false
-file: /courses/res-6-007-signals-and-systems-spring-2011/dfac4e2a745cc45c870bba07aa55885b_MITRES_6_007S11_hw02_sol.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/dfac4e2a745cc45c870bba07aa55885b_MITRES_6_007S11_hw02_sol.pdf
 file_size: 343506
 file_type: application/pdf
 image_metadata:

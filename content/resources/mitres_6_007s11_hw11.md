@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem set related to discrete-time fourier transform.
 draft: false
-file: /courses/res-6-007-signals-and-systems-spring-2011/cec53598ad9abc59ba27452ee69abd9b_MITRES_6_007S11_hw11.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/cec53598ad9abc59ba27452ee69abd9b_MITRES_6_007S11_hw11.pdf
 file_size: 241974
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to signals and systems: part
   II.'
 draft: false
-file: /courses/res-6-007-signals-and-systems-spring-2011/a21157f121ca5ba3d946766a5d387018_MITRES_6_007S11_lec03.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/a21157f121ca5ba3d946766a5d387018_MITRES_6_007S11_lec03.pdf
 file_size: 401788
 file_type: application/pdf
 image_metadata:

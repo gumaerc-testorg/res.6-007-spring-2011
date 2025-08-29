@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem set related to filtering.
 draft: false
-file: /courses/res-6-007-signals-and-systems-spring-2011/4c95154af7a7be1b291b694fa70c2012_MITRES_6_007S11_hw12.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/4c95154af7a7be1b291b694fa70c2012_MITRES_6_007S11_hw12.pdf
 file_size: 306389
 file_type: application/pdf
 image_metadata:
