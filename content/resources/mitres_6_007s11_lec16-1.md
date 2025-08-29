@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to sampling.
 draft: false
-file: /courses/res-6-007-signals-and-systems-spring-2011/8708ec068ebdea2c4ee2f38fad39fb83_MITRES_6_007S11_lec16.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/8708ec068ebdea2c4ee2f38fad39fb83_MITRES_6_007S11_lec16.pdf
 file_size: 635596
 file_type: application/pdf
 image_metadata:

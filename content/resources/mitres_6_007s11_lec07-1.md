@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to continuous-time fourier
   series.
 draft: false
-file: /courses/res-6-007-signals-and-systems-spring-2011/24eca8c9c36bf5931c022e17fd44dbfc_MITRES_6_007S11_lec07.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/24eca8c9c36bf5931c022e17fd44dbfc_MITRES_6_007S11_lec07.pdf
 file_size: 390198
 file_type: application/pdf
 image_metadata:

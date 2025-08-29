@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to introduction.
 draft: false
-file: /courses/res-6-007-signals-and-systems-spring-2011/e6c75426e220f1a406b0b9be1f55bbc1_MITRES_6_007S11_lec01.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/e6c75426e220f1a406b0b9be1f55bbc1_MITRES_6_007S11_lec01.pdf
 file_size: 998378
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to filtering.
 draft: false
-file: /courses/res-6-007-signals-and-systems-spring-2011/5996085dee876b97bedcf6aa82a7d9b4_MITRES_6_007S11_lec12.pdf
+file: /ol-ocw-studio-app/courses/res-6-007-signals-and-systems-spring-2011/5996085dee876b97bedcf6aa82a7d9b4_MITRES_6_007S11_lec12.pdf
 file_size: 432866
 file_type: application/pdf
 image_metadata:
